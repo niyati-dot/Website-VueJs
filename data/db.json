@@ -1,1 +1,7 @@
-
+{
+  "jobs": [
+    { "title": "Web Developer", "id": 1, "datails": "lorem" },
+    { "title": "Data Engineer", "id": 2, "datails": "lorem" },
+    { "title": "Vue Developer", "id": 3, "datails": "lorem" }
+  ]
+}
